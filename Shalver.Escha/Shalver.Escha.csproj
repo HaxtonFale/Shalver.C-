@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Categories.csv" />
+    <None Remove="Data\Disassembly.csv" />
+    <None Remove="Data\Ingredients.csv" />
+    <None Remove="Data\ItemIsStack.csv" />
+    <None Remove="Data\Items.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Categories.csv" />
+    <EmbeddedResource Include="Data\Disassembly.csv" />
+    <EmbeddedResource Include="Data\Ingredients.csv" />
+    <EmbeddedResource Include="Data\ItemIsStack.csv" />
+    <EmbeddedResource Include="Data\Items.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="5.2.5" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.3.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shalver.IO\Shalver.IO.csproj" />
+    <ProjectReference Include="..\Shalver.Model\Shalver.Model.csproj" />
+  </ItemGroup>
+
+</Project>

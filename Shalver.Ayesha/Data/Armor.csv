@@ -1,0 +1,16 @@
+Order,Name,Level,Category,F,W,A,E,Trait 1,Trait 2,HP,MP,ATK,SPD,PH,AIL,F,I,L,Description,Ayesha,Regina,Wilbell,Linca,Juris,Keithgriff,Nio,Marion,Odelia
+1,Cotton Shirt,6,(Cloth),0,5,5,0,Well-Made,,0,0,0,0,4,0,0,0,0,"A regular shirt. Wearing a shirt is basic decency. You sweat without knowing it, so change your clothes daily.",Y,Y,Y,Y,Y,Y,Y,Y,Y
+2,Sturdy Shirt,10,(Cloth),0,10,10,0,Well-Made,,0,0,0,0,5,0,0,0,0,"A shirt made of hemp that's sturdy. It's breathable, but it's thick, so it might get too hot.",Y,Y,Y,Y,Y,Y,Y,Y,Y
+3,Knitted Shirt,15,(Cloth),0,15,15,0,Good w/ Plants,,0,0,0,0,7,0,0,0,0,"A shirt made of yarn. It's warm, soft, and sturdy. A must-have for cold seasons.",Y,Y,Y,Y,Y,Y,Y,Y,Y
+4,Leather Shirt,19,(Cloth),0,20,20,0,Good w/ Plants,,0,0,0,0,9,10,0,0,0,"A shirt made from tanned leather. It's not very comfortable, but it's much tougher than regular shirts.",Y,Y,Y,Y,Y,Y,Y,Y,Y
+5,Fur Shirt,24,(Cloth),0,25,25,0,Nice w/ Plants,,0,0,0,0,10,0,20,0,0,"A shirt made from animal fur. It's warm and flexible. It kind of smells like a wet dog, but you get used to it.",Y,Y,Y,Y,Y,Y,Y,Y,Y
+6,Chain Shirt,28,(Cloth),0,30,30,0,Good w/ Ore,,0,0,2,0,12,10,10,0,0,"A shirt made of woven chains. It's tough and won't let claws or fangs pass through, but it's a bit heavy.",Y,Y,Y,Y,Y,Y,Y,Y,Y
+7,Gold Shirt,33,(Cloth),0,35,35,0,Nicely Made,,15,0,0,3,13,0,0,0,15,"A shirt made by weaving golden yarn. It's fashionable and light, but it's much tougher than it looks.",Y,Y,,,,Y,Y,Y,Y
+8,Rainbow Shirt,42,(Cloth),0,40,40,0,Amazingly Made,,5,5,2,3,17,10,10,10,10,"A shirt that gives off a rainbow light for some reason. It's very thin, yet durable. You feel protected by it.",Y,Y,,,,Y,Y,Y,Y
+9,Cuirass,6,(Metal),0,40,40,0,Amazingly Made,,0,0,0,0,6,0,0,0,0,"Small armor meant to protect your chest. It doesn't cover much, but the lower weight gives you more agility.",,,Y,Y,Y,,,,
+10,Alloy Plate,15,(Metal),10,0,0,10,Nice w/ Ore,,0,0,0,0,8,0,0,0,0,"Tough armor made by joining various types of metals. It's tough, but it's heavy.",,,Y,Y,Y,,,,
+11,Magic Plate,19,(Metal),15,0,0,15,Well-Made,,0,0,0,0,10,10,10,0,10,Pretty armor with decorations all over it. It's protected by a magical power. It's much harder than iron armor.,,,Y,Y,Y,,,,
+12,Crystal Plate,24,(Metal),20,0,0,20,Nice w/ Plants,,0,10,0,3,13,0,0,20,0,Grand armor made with lots of crystals. It's tougher and lighter than regular armor.,,,Y,Y,Y,,,,
+13,Ebony Plate,28,(Metal),25,0,0,25,Nice w/ Plants,,10,0,0,0,15,30,0,0,0,"Armor made with lumber that's as hard as iron. It's thin and light, so it's easy to move around in. Looks cool, too.",,,Y,Y,Y,,,,
+14,Scale Plate,33,(Metal),30,0,0,30,Nicely Made,,0,0,3,5,17,5,5,5,0,"Tough armor made with scales. The surface is harder and heavier than iron, so it's tough to make, but it's cozy.",,,Y,Y,Y,,,,
+15,Meteor Plate,42,(Metal),35,0,0,35,Amazingly Made,,10,10,0,0,20,0,0,0,20,"A sturdy and heavy armor made with a mysterious mineral. It's clunky, but this is as far as you can refine it.",,,Y,Y,Y,,,,

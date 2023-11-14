@@ -1,0 +1,64 @@
+slug,en,ja,category name
+a-clothes,(A Clothes),（防具・服）,shallie-category-a-light-armor
+a-heavy-armor,(A Heavy Armor),（防具・重装）,shallie-category-a-light-armor
+a-light-armor,(A Light Armor),（防具・軽装）,shallie-category-a-light-armor
+accessory,(Accessory),（装飾品）,shallie-category-accessory
+adventure,(Adventure),（冒険用具）,shallie-category-adventure
+ancient-power,(Ancient Power),（古代導力）,shallie-category-antique
+animal,(Animal),（動物素材）,shallie-category-pelt
+antique,(Antique),（骨董品）,shallie-category-antique
+apple,(Apple),（リンゴ）,shallie-category-apple
+beehive,(Beehive),（ハチの巣）,shallie-category-bee-hive
+bomb,(Bomb),（爆弾）,shallie-category-bomb
+book,(Book),（書物）,shallie-category-book
+clay,(Clay),（粘土）,shallie-category-clay
+cloth,(Cloth),（布）,shallie-category-cloth
+core,(Core),（コア）,shallie-category-magic-tool
+dragon,(Dragon),（竜素材）,shallie-category-dragon-material
+elixir,(Elixir),（エリキシル）,shallie-category-elixir
+feather,(Feather),（羽根）,shallie-category-pelt
+food,(Food),（食品）,shallie-category-food
+fruit,(Fruit),（果物）,shallie-category-apple
+fuel,(Fuel),（燃料）,shallie-category-fuel
+gas,(Gas),（気体）,shallie-category-gas
+grain,(Grain),（穀類）,shallie-category-grain
+gunpowder,(Gunpowder),（火薬）,shallie-category-gunpowder
+jewel,(Jewel),（宝石）,shallie-category-jewel
+liquid,(Liquid),（液体）,escha-category-liquid
+lumber,(Lumber),（木材）,shallie-category-lumber
+magic-grass,(Magic Grass),（魔法の草）,shallie-category-plant
+magic-tool,(Magic Tool),（魔法の道具）,shallie-category-magic-tool
+meat,(Meat),（肉）,shallie-category-meat
+medic-ing,(Medic. Ing.),（薬材料）,shallie-category-elixir
+medicine,(Medicine),（薬品）,shallie-category-medicine
+metal,(Metal),（金属）,shallie-category-metal
+mystery,(Mystery),（神秘の力）,shallie-category-mystery
+natural,(Natural),（天然素材）,shallie-category-natural
+oil,(Oil),（油）,shallie-category-fuel
+ore,(Ore),（鉱石）,shallie-category-ore
+paper,(Paper),（紙）,shallie-category-paper
+plant,(Plant),（植物類）,shallie-category-plant
+seasoning,(Seasoning),（調味料）,shallie-category-seasoning
+skin,(Skin),（皮）,shallie-category-pelt
+slag-parts,(Slag Parts),（スラグパーツ）,shallie-category-pelt
+smell,(Smell),（香り）,shallie-category-aroma
+smelly,(Smelly),（臭い）,shallie-category-aroma
+snack,(Snack),（お菓子）,shallie-category-snack
+spark,(Spark),（弾ける実）,shallie-category-plant
+string,(String),（糸素材）,shallie-category-thread
+sundry,(Sundry),（日用品）,shallie-category-sundry
+supplement,(Supplement),（中和剤）,shallie-category-liquid
+synthesis,(Synthesis),（調合素材）,shallie-category-natural
+vegetable,(Vegetable),（野菜）,shallie-category-vegetable
+w-accessory,(W Accessory),（武器・装飾）,shallie-category-w-bell
+w-alch-sword,(W Alch. Sword),（武器・錬金剣）,shallie-category-w-bell
+w-bag,(W Bag),（武器・鞄）,shallie-category-w-bell
+w-broomstick,(W Broomstick),（武器・箒）,shallie-category-w-bell
+w-club,(W Club),（武器・棒）,shallie-category-w-bell
+w-cookware,(W Cookware),（武器・調理器具）,shallie-category-w-bell
+w-gun,(W Gun),（武器・銃）,shallie-category-w-bell
+w-hammer,(W Hammer),（武器・槌）,shallie-category-w-bell
+w-longsword,(W Longsword),（武器・大剣）,shallie-category-w-bell
+w-rapier,(W Rapier),（武器・刺突剣）,shallie-category-w-bell
+w-staff,(W Staff),（武器・杖）,shallie-category-w-bell
+key,(Key),（キー）,shallie-category-key-item

@@ -1,0 +1,40 @@
+Name,Level,Character,Category,F,W,A,E,Trait 1,Trait 2,HP,MP,ATK,SPD,PH,AIL,F,I,L,Desc
+Flower Tree Staff,6,Ayesha,(Lumber),0,0,0,10,Wind Power,,0,0,4,0,0,0,0,0,0,"A staff made from a sturdy piece of wood. It's light and easy to carry, so anyone can use it. I think it's cute."
+Fragrant Staff,13,Ayesha,(Lumber),0,0,0,15,Storm Power,,0,0,6,0,0,0,0,0,0,"There is a fruit at the end of this staff, so it smells good. Hmm, I don't want to hit anything with this..."
+Ebony Staff,22,Ayesha,(Lumber),0,0,0,25,Tempest Power,,5,0,8,0,0,0,0,0,20,"A clunky staff made with hard wood. It's tough, but doesn't look cute at all. A staff shouldn't be made to hit foes with."
+Floral Staff,31,Ayesha,(Lumber),0,0,0,40,Tornado Power,,0,0,10,5,10,0,0,0,0,A cute staff with a flower growing at the end. It's tougher than it looks. The flower really hangs in there!
+Fairy Queen Staff,40,Ayesha,(Lumber),0,0,0,60,Wind Spirit,,0,20,12,0,0,5,5,5,5,A staff said to belong to the fairy queen that lives deep in the forest. I wonder if it's okay for me to use it...
+Magic Broom,5,Wilbell,(Lumber),10,0,0,0,Fire Power,,0,0,5,0,0,0,0,0,0,"Bell's broom. It's needed for casting magic, but the broom itself is ordinary. Knowing Bell, it's not for sweeping."
+Fancy Broom,14,Wilbell,(Lumber),15,0,0,0,Flame Power,,0,0,7,0,0,0,0,0,0,"A broom with a cute ribbon and doll. I always thought witches had plain brooms, so this one really surprised me."
+Charm Broom,23,Wilbell,(Lumber),25,0,0,0,Hellfire Power,,0,0,9,5,0,0,0,0,10,"Unlike a regular broom, there is a charm cast on it. I'm amazed at how witches can use this to fly."
+Maiden Broom,35,Wilbell,(Lumber),40,0,0,0,Scorching Hot,,15,0,12,0,10,0,0,0,0,"Witches in the past wore black robes. This broom was made with that tradition in mind. Looks plain, but it's magic!"
+Spirit Broom,44,Wilbell,(Lumber),60,0,0,0,Fire Spirit,,10,10,15,0,0,10,10,10,0,A grand broom said to belong to a witch that became friends with a forest spirit. It's full of the magic of the spirits.
+Iron Pickax,7,Regina,(Metal),0,0,0,10,Dirt Power,,0,0,6,0,0,0,0,0,0,"A regular pickax used in mining. It becomes an awesome weapon when Regina uses it. Awesome for anyone, really."
+Twisted Pickax,16,Regina,(Metal),0,0,0,15,Rock Power,,0,0,8,0,0,0,0,0,0,A pickax with a twisted tip. It looks scary. Using the tip will surely... I'm getting chills just thinking about it.
+Alloy Pickax,25,Regina,(Metal),0,0,0,25,Black Soil Power,,0,0,10,5,0,0,0,0,0,"A sturdy pickax made with many different metals. It shouldn't break easily, so it'll be great for mining. Not great for foes."
+Strong Pickax,33,Regina,(Metal),0,0,0,40,Earth Power,,10,0,13,0,5,0,0,0,20,"A big, tough pickax for big, tough people. It's even hard for men to carry it, but Regina swings it around like it's nothing."
+Diamond Pickax,42,Regina,(Metal),0,0,0,60,Earth Spirit,,20,0,15,5,0,0,0,20,0,"A grand pickax made from a hard mineral. It's so heavy, I can barely drag it on the ground. But Regina... Well..."
+Single-Edge Sword,8,Linca,(Metal),0,0,10,0,Wind Power,,0,0,7,0,0,0,0,0,0,A big sword that Linca always carries around. It was crudely forged and sharpened. It's amazing she can use this...
+Protector Sword,17,Linca,(Metal),0,0,15,0,Storm Power,,0,0,9,0,0,0,0,0,0,A giant sword you could hide behind. I always think Linca looks really amazing when she protects Marion.
+Glass Blade,23,Linca,(Metal),0,0,25,0,Tempest Power,,0,0,11,0,5,0,0,0,0,"A large sword made of glass. You might be worried that it will shatter, but it's much sturdier than it looks."
+Magic Sword,32,Linca,(Metal),0,0,40,0,Tornado Power,,10,0,13,0,0,0,0,0,33,A large white sword with mysterious power. Modeled off a sword that belonged to a famous warrior a long time ago.
+Angel Sword,41,Linca,(Metal),0,0,60,0,Wind Spirit,,0,20,16,5,0,5,5,0,0,A very sharp sword that's said to only be as heavy as an angel's feather. But it's still too heavy for me...
+Hunter Knife,8,Juris,(Metal),0,0,10,0,Dirt Power,,0,0,7,0,0,0,0,0,0,A knife as big as a sword that Juris carries. It's usually used to field dress animals.
+Ancient Blade,17,Juris,(Metal),0,0,15,0,Rock Power,,0,0,9,0,0,0,0,0,0,A knife said to be the same as those used by a warrior tribe in the forest. The shape is probably for practicality.
+Bloody Splinter,26,Juris,(Metal),0,0,25,0,Black Soil Power,,0,0,11,3,0,0,0,0,0,A hunter's weapon that bleeds the target out. They say you have to bleed what you hunt to prevent it from rotting.
+Blade of Light,34,Juris,(Metal),0,0,40,0,Earth Power,,10,0,13,5,0,0,0,15,0,A very sharp knife that can instantly down animals. Animals that get cut don't even realize they're dead...
+White Fang,43,Juris,(Metal),0,0,60,0,Earth Spirit,,7,7,16,0,0,10,10,0,0,"The tip is jagged, like a wolf's fang. It's very sharp and can shred flesh. This weapon cuts two times at once!"
+Glass Ring,20,Keithgriff,(Metal),0,10,0,0,Water Power,,0,0,10,0,0,0,0,0,0,"A ring made of something resembling glass that Keith wears. I'm not sure, but it must have some special power."
+Crystal Ring,24,Keithgriff,(Metal),0,15,0,0,Rain Power,,0,0,11,0,0,0,0,0,0,"A pretty ring made of crystal. It would make a great wedding ring, I think. But it looks kind of expensive for me..."
+Star Ring,28,Keithgriff,(Metal),0,25,0,0,Flood Power,,0,0,12,0,10,0,0,0,0,"A pretty ring with a star-shaped jewel. There seems to be a reason why it's shaped this way. Basically, it's magic!"
+Magic Ring,35,Keithgriff,(Metal),0,40,0,0,Drizzle Power,,0,30,14,0,0,0,0,0,25,A ring with a rune stone said to have some kind of power. There are runes carved into it.
+Rainbow Ring,40,Keithgriff,(Metal),0,60,0,0,Water Spirit,,5,5,16,5,5,5,5,5,5,A mysterious ring with a rainbow-colored jewel. No one knows what it's made of. I asked Keith once and he got mad!
+Measuring Ladle,13,Nio,(Metal),0,10,0,0,Fire Power,,0,0,7,0,5,0,5,0,0,"A ladle used to serve soup. Don't worry! I'll do my best to protect you now, Nio!"
+Metal Stirrer,24,Nio,(Metal),0,30,0,0,Hellfire Power,,5,0,10,0,7,0,0,10,0,"I told Nio to get a better weapon, but it can't be flat on the end. Maybe it does hurt when you get hit with this..."
+Single Mixer,42,Nio,(Metal),0,50,0,0,Fire Spirit,,10,10,13,0,5,10,0,0,0,A kitchen tool used to stir mixes. People don't usually use these as weapons. I'm glad Nio is more independent now.
+Handgun,13,Marion,(Metal),15,0,0,0,Good w/ Ore,,0,0,8,0,0,0,0,0,0,"It looks like a small metal pipe, but this is Marion's weapon. I'm not sure how it works, but I guess it shots out a small metal bullet."
+Mini-Magnum,24,Marion,(Metal),30,0,0,0,Flame Power,,10,0,12,0,0,0,0,0,10,"A mysterious weapon that has a lot of power, but is really small in size. The recoil after shooting it is so powerful, it makes it hard to hit."
+Star Magnum,42,Marion,(Metal),45,0,0,0,Addition,,15,0,17,20,0,15,15,0,0,"A small weapon made for taking quick shots. Compared to the other ones, its trigger is very light, so it needs to be handled with care."
+Old Gears,13,Odelia,(Metal),0,0,0,15,Heighten Power,,0,0,6,0,5,5,5,5,0,"I don't know if it's because they're old, but the wear from the mashing of gears isn't good. I don't know if I can trust these gears too much..."
+Polished Gears,24,Odelia,(Metal),0,0,0,30,Nice w/ Ore,,10,10,10,0,0,10,10,10,0,These gears are oiled nicely and move smoothly. Gears need to be maintained regularly or they'll wear out very quickly.
+Shining Gears,42,Odelia,(Metal),0,0,0,45,Usage Null,,20,20,15,0,15,0,0,0,20,"I don't know what they're made of, but these gears emit a mysterious light. Hmm, I wonder why Ms. Odelia likes gears so much..."

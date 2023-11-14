@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Armor.csv" />
+    <None Remove="Data\IngredientItems.csv" />
+    <None Remove="Data\SynthesisItems.csv" />
+    <None Remove="Data\UsableItems.csv" />
+    <None Remove="Data\Weapons.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Armor.csv" />
+    <EmbeddedResource Include="Data\IngredientItems.csv" />
+    <EmbeddedResource Include="Data\SynthesisItems.csv" />
+    <EmbeddedResource Include="Data\UsableItems.csv" />
+    <EmbeddedResource Include="Data\Weapons.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shalver.IO\Shalver.IO.csproj" />
+    <ProjectReference Include="..\Shalver.Model\Shalver.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Humanizer.Core" Version="2.14.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

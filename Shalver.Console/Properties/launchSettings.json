@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "longest Shallie": {
+      "commandName": "Project",
+      "commandLineArgs": "find longest --atelier Shallie"
+    },
+    "path Shallie": {
+      "commandName": "Project",
+      "commandLineArgs": "find path --atelier Shallie --source Barrel --destination \"Palma Board\""
+    },
+    "longest Escha": {
+      "commandName": "Project",
+      "commandLineArgs": "find longest --atelier Escha"
+    },
+    "path Escha": {
+      "commandName": "Project",
+      "commandLineArgs": "find path --atelier Escha --source \"Spiky Bud\" --destination \"Heavenly Spirits\""
+    },
+    "longest Ayesha": {
+      "commandName": "Project",
+      "commandLineArgs": "find longest --atelier Ayesha"
+    },
+    "path Ayesha": {
+      "commandName": "Project",
+      "commandLineArgs": "find path --atelier Ayesha --source \"Blade of Light\" --destination \"Success Ring\""
+    }
+  }
+}
