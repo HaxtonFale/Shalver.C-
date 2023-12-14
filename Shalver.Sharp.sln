@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shalver.Escha", "Shalver.Es
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shalver.IO", "Shalver.IO\Shalver.IO.csproj", "{5BC118AB-971C-47DE-9E9F-B01ECF958600}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shalver.Ayesha", "Shalver.Ayesha\Shalver.Ayesha.csproj", "{7A51AEAB-38C6-479E-98D0-E2990524D8CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shalver.Ayesha", "Shalver.Ayesha\Shalver.Ayesha.csproj", "{7A51AEAB-38C6-479E-98D0-E2990524D8CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
